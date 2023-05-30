@@ -1,4 +1,4 @@
-package BreadcrumbsCompress_Decompress;
+package Compress_Decompress;
 
 public class Main {
 
